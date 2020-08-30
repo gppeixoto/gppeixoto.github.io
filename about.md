@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### Experience
- 
-(May 2019, Current) Data Scientist at [Nubank](https://nubank.com.br/en/). Credit risk, pricing, experiment design, causal inference, statistical modelling and machine learning.
+Data Scientist at [Nubank](https://nubank.com.br/en/). Work mostly with credit risk, pricing, experiment design, causal inference, statistical modelling and machine learning. Former: Machine Learning and Software Engineer at [Inloco](https://medium.com/inlocotech), researcher at [DMML - ASU](https://dmml.asu.edu/) under Dr. Liu.
 
-(Feb 2016, Apr 2019) Machine Learning Engineer, Software Engineer at [Inloco](https://nubank.com.br/en/). Worked with [data infrastructure](https://medium.com/inlocotech), software engineering (mostly building RESTful APIs on Java) and end-to-end data science.
+I am a CS major from UFPE - Federal University of Pernambuco (PE, Brazil), having spent a year on Stevens Institute of Technology (Hoboken, NJ) while recipient of a fully-funded scholarship. I am pursuing a MSc. degree in Computer Science from UFPE.
 
-(May 2015 - Aug 2015) Undergraduate researcher at [DMML - ASU](https://dmml.asu.edu/) under Dr. Liu.
-
-### Academic Background
-
-* 2016 Bsc. in Computer Science @ UFPE (Federal University of Pernambuco)
-* 2014-2015 Stevens Institute of Technology
