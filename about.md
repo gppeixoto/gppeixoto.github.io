@@ -8,9 +8,9 @@ permalink: /about/
  
 (May 2019, Current) Data Scientist at [Nubank](https://nubank.com.br/en/). Credit risk, pricing, experiment design, causal inference, statistical modelling and machine learning.
 
-(Feb 2016, Apr 2019) Machine Learning Engineer, Software Engineer at [Inloco](https://nubank.com.br/en/). Worked with [data infrastructure](https://medium.com/inlocotech/data-infrastructure-at-in-loco-5d954cb69b98), software engineering (mostly building RESTful APIs on Java) and end-to-end data science.
+(Feb 2016, Apr 2019) Machine Learning Engineer, Software Engineer at [Inloco](https://nubank.com.br/en/). Worked with [data infrastructure](https://medium.com/inlocotech), software engineering (mostly building RESTful APIs on Java) and end-to-end data science.
 
-(May 2015 - Aug 2015) Undergraduate researcher at [DMML - ASU](DMML) under Dr. Liu.
+(May 2015 - Aug 2015) Undergraduate researcher at [DMML - ASU](https://dmml.asu.edu/) under Dr. Liu.
 
 ### Academic Background
 
