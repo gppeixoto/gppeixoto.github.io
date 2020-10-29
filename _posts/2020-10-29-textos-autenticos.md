@@ -23,7 +23,7 @@ entendi a linguagem. entendi o público.
 e continuei sem ter escrito, em dois anos.
 
 
-na busca por otimizar o canal, conteúdo, tópico, formato, acessibilidade, e, enfim, o não-eu, percebi que havia perdido — o eu.
+na busca por otimizar o canal, conteúdo, tópico, formato, audiência, e, enfim, o não-eu, percebi que havia perdido — o eu.
 
 aqui jaz o primeiro texto autêntico da minha vida.
 
