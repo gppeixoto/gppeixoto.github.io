@@ -20,11 +20,8 @@ busquei inspiração em outros locais. profissionais que conheci na vida, profis
 
 entendi a linguagem. entendi o público.
 
-e continuei sem ter escrito, em dois anos.
+e continuei sem ter escrito, em dois anos. na busca por otimizar o canal, conteúdo, tópico, formato, audiência, e, enfim, o não-eu, percebi que ainda não havia escrito não por preguiça ou falta de foco, mas por procurar algo que não o autêntico eu.
 
-
-na busca por otimizar o canal, conteúdo, tópico, formato, audiência, e, enfim, o não-eu, percebi que havia perdido — o eu.
-
-aqui jaz o primeiro texto autêntico da minha vida.
+este é o primeiro texto autêntico da minha vida.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ko5roiJR8EY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
