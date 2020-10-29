@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "textos autênticos"
-date:   2020-08-29
+date:   2020-10-29
 categories: personal
 ---
 
@@ -27,5 +27,4 @@ na busca por otimizar o canal, conteúdo, tópico, formato, acessibilidade, e, e
 
 aqui jaz o primeiro texto autêntico da minha vida.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/obdH-S_3e_c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ko5roiJR8EY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
