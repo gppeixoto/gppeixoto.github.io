@@ -26,3 +26,6 @@ e continuei sem ter escrito, em dois anos.
 na busca por otimizar o canal, conteúdo, tópico, formato, acessibilidade, e, enfim, o não-eu, percebi que havia perdido — o eu.
 
 aqui jaz o primeiro texto autêntico da minha vida.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/obdH-S_3e_c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
