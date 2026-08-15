@@ -1,0 +1,12 @@
+baseURL = "https://gppeixoto.com/"
+locale = "en-US"
+title = "Guilherme Peixoto"
+disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
+
+[permalinks]
+  blog = "/blog/:slug/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false

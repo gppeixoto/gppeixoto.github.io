@@ -1,0 +1,60 @@
+:root {
+  color: #111;
+  background: #fff;
+  font-family: ui-monospace, "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 17px;
+  line-height: 1.65;
+}
+
+* { box-sizing: border-box; }
+
+body { margin: 0; }
+
+.site-header,
+main {
+  width: min(100% - 2rem, 76ch);
+  margin-inline: auto;
+}
+
+.site-header {
+  border-bottom: 1px solid #111;
+  padding-block: 1rem;
+}
+
+.site-header nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+main { padding-block: 3rem 5rem; }
+
+a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 0.15em; }
+a:hover { text-decoration-thickness: 2px; }
+a:focus-visible { outline: 2px solid #111; outline-offset: 3px; }
+
+h1, h2, h3 { line-height: 1.25; margin-block: 2.5rem 1rem; }
+h1 { font-size: 1.5rem; margin-top: 0; }
+h2 { font-size: 1.1rem; border-bottom: 1px solid #aaa; padding-bottom: 0.35rem; }
+h3 { font-size: 1rem; }
+p, ul { margin-block: 0 1.25rem; }
+ul { padding-left: 1.5rem; }
+strong { font-weight: 700; }
+
+.cv { font-size: 0.9rem; }
+
+.entry-header { margin-bottom: 2.5rem; }
+.entry-header h1 { margin-bottom: 0.4rem; }
+time { color: #666; }
+
+.entries ol { list-style: none; margin: 2rem 0 0; padding: 0; }
+.entries li { display: grid; grid-template-columns: 6.5rem 1fr; gap: 1rem; margin-bottom: 0.8rem; }
+.entries time { white-space: nowrap; }
+
+@media (max-width: 38rem) {
+  :root { font-size: 16px; }
+  .site-header, main { width: min(100% - 1.5rem, 76ch); }
+  main { padding-top: 2rem; }
+  .entries li { display: block; }
+  .entries time { display: block; }
+}
