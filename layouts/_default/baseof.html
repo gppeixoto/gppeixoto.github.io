@@ -4,6 +4,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap" rel="stylesheet">
     {{ with resources.Get "css/main.css" }}
       <link rel="stylesheet" href="{{ .RelPermalink }}">
     {{ end }}
@@ -11,8 +14,11 @@
   <body>
     <header class="site-header">
       <nav aria-label="Primary navigation">
-        <a href="{{ site.Home.RelPermalink }}">Guilherme Peixoto</a>
-        <a href="{{ "/blog/" | relURL }}">blog</a>
+        <a class="site-identity" href="{{ site.Home.RelPermalink }}"><span aria-hidden="true">~/</span>gppeixoto</a>
+        <div class="site-links">
+          <a href="{{ "/blog/" | relURL }}">blog</a>
+          <a href="mailto:gpalmape@pm.me">contact</a>
+        </div>
       </nav>
     </header>
     <main>

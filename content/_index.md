@@ -4,7 +4,7 @@ title: "Guilherme Peixoto"
 
 # Guilherme Peixoto
 
-Staff Machine Learning Engineer @ Nubank, 10 YoE.
+Senior Staff Machine Learning Engineer @ Nubank
 
 **LinkedIn:** linkedin.com/in/guilhermepeixoto  
 **Email:** gpalmape [at] pm[dot]me   
@@ -13,7 +13,7 @@ Staff Machine Learning Engineer @ Nubank, 10 YoE.
 
 ### Experience
 
-* Nubank (2019 - present), Staff Machine Learning Engineer
+* Nubank (2019 - present), Senior Staff Machine Learning Engineer
 * Incognia (2016 - 2019), Machine Learning Engineer
 * Motorola - UFPE Research (2015 - 2016), Undergraduate Researcher
 * Data Mining and Machine Learning Lab @ Arizona State University (2015), Undergrad Researcher
